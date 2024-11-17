@@ -1,0 +1,37 @@
+# Hi, I'm Milos Mileusnic 👋
+### QA Automation Engineer | Selenium | Java | API Testing
+
+🚀 **About Me:**  
+- Experienced in building automation frameworks using Selenium, TestNG, Rest-Assured, and Maven.  
+- Proficient in API testing, backend testing (SQL), and CI/CD integration with Jenkins.  
+- Passionate about delivering high-quality solutions and learning new tools/technologies.
+
+---
+
+🛠 **Technical Skills:**  
+- **Languages:** Java, SQL  
+- **Automation Tools:** Selenium WebDriver, Rest-Assured, Postman  
+- **Frameworks:** TestNG, JUnit, Cucumber  
+- **CI/CD:** Jenkins, Maven, Git  
+- **Bug Tracking:** JIRA  
+- **Databases:** MySQL, Oracle  
+
+---
+
+📂 **Featured Projects:**
+- **[Cucumber Framework](https://github.com/mimira49v/CucumberFramework)**  
+  A complete BDD framework using Selenium, Cucumber, and Maven.  
+  *Features:* Cross-browser support, reusable methods, and reporting integration.
+
+- **[API Automation](https://github.com/mimira49v/API-Testing-Framework)**  
+  Automated REST API test cases using Rest-Assured and JSON validation.  
+  *Features:* Status code validation, schema validation, and reporting.
+
+- **[SQL Testing Examples](https://github.com/mimira49v/SQL-Examples)**  
+  Backend testing scripts to validate database queries and data integrity.
+
+---
+
+📫 **Connect with Me:**  
+- LinkedIn: [Your LinkedIn URL]  
+- Email: [mileusnic.sdet@gmail.com](mailto:mileusnic.sdet@gmail.com)
